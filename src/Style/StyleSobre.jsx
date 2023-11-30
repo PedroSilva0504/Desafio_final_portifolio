@@ -39,6 +39,7 @@ flex-direction: column;
 justify-content: space-evenly;
 align-items:center;
 
+
 @media (max-width: 720px) {
     width:70vw;
 }
@@ -51,8 +52,13 @@ display:flex;
 font-size:15px;
 text-align:start;
 
+justify-content:space-evenly;
+width: 19vw;
+
 @media (max-width: 720px) {
     font-size:10px;
+    width: 50vw;
+    
 }
 `;
 
@@ -62,6 +68,7 @@ display:flex;
 font-size:15px;
 text-align:start;
 width: 17vw;
+
 
 @media (max-width: 720px) {
     font-size:10px;
@@ -75,6 +82,7 @@ display:flex;
 font-size:15px;
 text-align:start;
 width:17vw;
+
 
 @media (max-width: 720px) {
     font-size:10px;
@@ -151,10 +159,19 @@ height: 50vh;
 width: 20vw;
 border-radius:30px;
 box-shadow: 10px 0px 15px rgba(0, 0, 0, 0.9);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: v;
 
 @media (max-width: 720px) {
     width:70vw;
 }
+`;
+
+export const P = styled.p`
+font-size: 20px;
 `;
 
 

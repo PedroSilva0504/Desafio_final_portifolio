@@ -51,7 +51,7 @@ function Sobre() {
                 <S.H2>Habilidades</S.H2>
                 <S.DivHabilidades>
                     <S.SectionHabilidades>
-                        <h2>Html5</h2>
+                        <h2>Html</h2>
                         <figure>
                             <S.ImgHabilidades src={Html} alt="logo html 5" />
                         </figure>
@@ -92,7 +92,13 @@ function Sobre() {
             <S.Div>
                 <S.H2>Experiência Profissional </S.H2>
                 <S.DivExperiencia>
-
+                    <h2>
+                        Call center:
+                    </h2>
+                    <S.P>Atendimento ao cliente via Chat, produto cartões de crédito, 
+                        solucionando problemas, e tirando dúvidas, 
+                        e direcionando as demandas para os setores responsáveis 
+                    </S.P>
                 </S.DivExperiencia>
             </S.Div>
         </S.Section>
