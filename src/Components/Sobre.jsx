@@ -96,8 +96,8 @@ function Sobre() {
                         Call center:
                     </h2>
                     <S.P>Atendimento ao cliente via Chat, produto cartões de crédito, 
-                        solucionando problemas, e tirando dúvidas, 
-                        e direcionando as demandas para os setores responsáveis 
+                        solucionando problemas, tirando dúvidas, 
+                        e direcionando as demandas para os setores responsáveis, entre outubro de 2020 à setembro de 2023.
                     </S.P>
                 </S.DivExperiencia>
             </S.Div>

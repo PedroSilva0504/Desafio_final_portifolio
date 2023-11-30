@@ -163,15 +163,24 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-padding: v;
+padding-bottom: 20px;
+
+
 
 @media (max-width: 720px) {
-    width:70vw;
+    width: 70vw;
 }
 `;
 
 export const P = styled.p`
 font-size: 20px;
+padding-top: 40px;
+width: 15vw;
+
+@media (max-width: 720px) {
+    width:55vw;
+    font-size: 17px;
+}
 `;
 
 
