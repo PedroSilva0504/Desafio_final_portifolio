@@ -16,7 +16,7 @@ function Projetos() {
                     </figure>
                     <S.Divdescricao>
                         <S.H2Calculadora>Calculadora usando Javascript, React e styled-components</S.H2Calculadora>
-                        <S.A href="https://magnificent-flan-45ece2.netlify.app/" target="_blank">Visualizar Projeto</S.A>
+                        <S.A href="https://polite-tanuki-53f27a.netlify.app/" target="_blank">Visualizar Projeto</S.A>
                         <S.A href="https://github.com/PedroSilva0504/Calculadora_Desafio" target="_blank">Projeto no GitHub</S.A>
                     </S.Divdescricao>
                 </S.ContainerCalculadora>

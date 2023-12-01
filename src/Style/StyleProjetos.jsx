@@ -52,6 +52,7 @@ flex-direction:column;
     width: 80vw;
     align-items: center;
     justify-content: center;
+    
 }
 `;
 
