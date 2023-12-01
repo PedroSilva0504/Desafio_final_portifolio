@@ -50,6 +50,8 @@ flex-direction:column;
 
 @media (max-width:720px){
     width: 80vw;
+    align-items: center;
+    justify-content: center;
 }
 `;
 
