@@ -8,7 +8,7 @@ import * as S from "../Style/StyleProjetos.jsx";
 function Projetos() {
     return(
         <S.Section>
-            <h2>Projetos</h2>
+            <S.H2>Alguns dos meus Projetos!!!</S.H2>
             <S.ProjetosDesktop>
                 <S.ContainerCalculadora>
                     <figure>

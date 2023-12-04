@@ -13,6 +13,15 @@ height: 100vh;
 }
 `;
 
+export const H2 = styled.h2`
+color: white;
+margin-left: 30px;
+
+@media (max-width:720px){
+    text-align: center;
+}
+`
+;
 
 export const ProjetosDesktop = styled.section`
 display: flex;

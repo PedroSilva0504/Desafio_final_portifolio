@@ -28,9 +28,21 @@ export const H2 = styled.h2`
 
   @media (max-width: 720px) {
     text-align:center;
+    font-size: 30px;
   }
 
 `;
+
+export const P = styled.p`
+  color: white;
+  font-size: 35px;
+  margin-bottom: 25px;
+
+  @media (max-width: 720px) {
+    font-size:20px;
+  }
+`;
+
 export const Figure = styled.figure`
   display: flex;
   justify-content: space-around;
@@ -40,6 +52,15 @@ export const Figure = styled.figure`
     width: 50vw;
   }
 `;
+
+export const Img = styled.img`
+width: 3vw;
+
+@media (max-width: 720px) {
+    width: 10vw;
+  }
+`;
+
 export const SectionRedesSociais = styled.div`
   height: 20vh;
 
