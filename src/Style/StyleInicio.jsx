@@ -43,6 +43,12 @@ export const P = styled.p`
   }
 `;
 
+export const Pinfo= styled.p`
+  width: 60vw;
+  color: white;
+  font-size: 20px;
+`;
+
 export const Figure = styled.figure`
   display: flex;
   justify-content: space-around;

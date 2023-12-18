@@ -37,7 +37,7 @@ function Projetos() {
                         <S.Img src={FantastikaPrint} alt="página fantastika print" />
                     </figure>
                     <S.Divdescricao>
-                        <S.H2Fantastika>Fantatika, projeto feito com Html e CSS, com responsívo para Mobile</S.H2Fantastika>
+                        <S.H2Fantastika>Fantastika, projeto feito com Html e CSS, com responsívo para Mobile</S.H2Fantastika>
                         <S.A href="https://pedrosilva0504.github.io/desafio-final-modulo-1/" target="_blank" > Visualizar Projeto</S.A>
                         <S.A href="https://github.com/PedroSilva0504/desafio-final-modulo-1" target="_blank" >Projeto no GitHub</S.A>
                     </S.Divdescricao>
@@ -47,7 +47,7 @@ function Projetos() {
                         <S.Img src={Lapizza} alt="print de página de pizzaria" />
                     </figure>
                     <S.Divdescricao>
-                        <S.H2Lapizza>Projeto de uma página de pizza, onde vc pode selecionar qual pizza deseja comprar feita com JavaScript, React e CSS</S.H2Lapizza>
+                        <S.H2Lapizza>Projeto de uma página de pizza, onde você pode selecionar qual pizza deseja comprar feita com JavaScript, React e CSS</S.H2Lapizza>
                         <S.A href="https://verdant-stroopwafel-1c61c5.netlify.app/" target="_blank" >Visualizar Projeto</S.A>
                         <S.A href="https://github.com/PedroSilva0504/page_lapizza" target="_blank" >Projeto no GitHub</S.A>
                     </S.Divdescricao>
